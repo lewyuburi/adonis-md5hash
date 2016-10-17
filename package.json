@@ -1,0 +1,12 @@
+{
+  "author": {
+    "name": "Lewis Yuburi"
+  },
+  "dependencies": {
+    "js-md5": "^0.4.1",
+    "adonis-fold": "^3.0.3",
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "name": "adonis-md5hash"
+}
